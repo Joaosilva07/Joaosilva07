@@ -4,6 +4,7 @@
 )](https://instagram.com/jotapenuness?igshid=MTIzZWMxMTBkOA==)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaosilva07&theme=Dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva07&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnolgias e Ferramentas que utilizo no dia a dia
 
