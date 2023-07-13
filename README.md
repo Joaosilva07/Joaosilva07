@@ -20,4 +20,4 @@ Currently, I am in my second semester of studying Computer Science, and I am pas
 
 ### Contact Me 📱:
 - Email: Jpn.gomesilva@gmail.com
-- Contato: 55+ (61) 996251732
+- Contact: 55+ (61) 996251732
